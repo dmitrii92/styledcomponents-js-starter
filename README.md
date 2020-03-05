@@ -23,7 +23,7 @@ Minimalistic _React_ application in _JavaScript_ with _styled-components_.
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/download/package-manager/)
-- To work in VSCode recommended to use [plugin])https://github.com/styled-components/vscode-styled-components_
+- To work in VSCode recommended to use [plugin](https://github.com/styled-components/vscode-styled-components)
 
 ---
 
