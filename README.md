@@ -16,7 +16,6 @@ Minimalistic _React_ application in _JavaScript_ with _styled-components_.
 
 ## Direct ancestors
 
-[**_context-api_**: cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
 
 ---
 
